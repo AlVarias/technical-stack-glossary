@@ -75,6 +75,12 @@ Governance and service delivery in high-SLA environments.
 * [MariaDB](./MARIADB.md) - High-Performance Open Source
 * [MySQL](./MYSQL.md) - Web & Cloud Application Data
 
+## 📐 Infrastructure Design & Physical Security
+* [Microsoft Visio](./MICROSOFT_VISIO.md) - Topology & Rack Design
+* [CCTV & IP Camera Systems](./CCTV_IP_CAMERA.md) - Surveillance Infrastructure
+* [Physical Access Controls](./ACCESS_CONTROLS.md) - Perimeter & Data Center Security
+
+
 ## 👨‍💻 About the Author
 I am a **Systems Engineer** based in **Auckland, NZ**, with a focus on bridging the gap between traditional hardware and modern cloud automation. My career is built on the belief that if a task is done twice, it should be automated.
 
