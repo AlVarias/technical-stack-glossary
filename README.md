@@ -1,7 +1,7 @@
 # 🛠️ Enterprise Technical Stack Glossary
 ### **Systems Engineering | Infrastructure-as-Code | Cloud Orchestration**
 
-This repository is a comprehensive technical glossary of the enterprise tools, platforms, and methodologies I have mastered across my career at **Systemethix**, **SMS Global Technologies**, and **IBM**. 
+This repository is a comprehensive technical glossary of the enterprise tools, platforms, and methodologies I have mastered across my career at **Systemethix**, **SMS Global Technologies**, and **Antlabs**. 
 
 Each category below represents a core pillar of my "Platform Engineering" philosophy: **Automation, Scalability, and Observability.**
 
@@ -80,6 +80,61 @@ Governance and service delivery in high-SLA environments.
 * [CCTV & IP Camera Systems](./CCTV_IP_CAMERA.md) - Surveillance Infrastructure
 * [Physical Access Controls](./ACCESS_CONTROLS.md) - Perimeter & Data Center Security
 
+* # 🏢 Data Center & Physical Infrastructure Portfolio
+### **Systems Engineering | Layer 1 Operations | Critical Facilities**
+
+This repository documents my hands-on experience in the "Physical Stack" of enterprise IT. A resilient cloud environment is only as stable as the power, cooling, and cabling that support it. This guide outlines my professional standards for **Datacenter Operations**, **Thermal Management**, and **Business Continuity**.
+
+---
+
+## 🏗️ Rack & Stack Operations
+Professional deployment of enterprise hardware with a focus on weight distribution and airflow optimization.
+* **Hardware Commissioning:** Physical installation of 1U-4U servers (Dell PowerEdge, HP ProLiant, IBM System x).
+* **Asset Mapping:** Utilizing **Microsoft Visio** to create 1:1 rack elevations and RU (Rack Unit) placement guides.
+* **Labeling Standards:** Implementing unique Asset IDs on both front and rear chassis for rapid identification.
+
+
+
+---
+
+## 🧶 Structured Cabling (TIA/EIA-606)
+High-performance network and power distribution using industry-standard cable hygiene and color-coding.
+* **Data Cabling:** Professional routing of **Cat6a Copper** and **OM4 Fiber Optic** links.
+* **Color-Coding Standard:** Using standardized colors (e.g., Blue for Data, Red/Black for A+B Power) for instant troubleshooting.
+* **Source-to-Destination Labeling:** Wrap-around labels at both ends of every cable (e.g., `SW01-P15 / SRV02-NIC1`).
+* **Cable Management:** Utilizing Velcro ties and vertical managers to maintain "Clean Aisle" standards and prevent airflow obstruction.
+
+
+
+---
+
+## ⚡ Critical Power & Business Continuity
+Ensuring 100% uptime through redundant power paths and backup generation.
+* **UPS Systems:** Monitoring battery health, load balancing, and bypass modes for Uninterruptible Power Supplies.
+* **Genset (Generator) Operations:** Overseeing Diesel Generator readiness, including ATS (Automatic Transfer Switch) testing and "Full-Load" transfers.
+* **Redundancy (2N / N+1):** Configuring dual-feed PDUs (Power Distribution Units) to eliminate single points of failure.
+
+
+
+---
+
+## ❄️ Environmental & Thermal Management (HVAC)
+Precision cooling and airflow engineering to prevent hardware failure and thermal throttling.
+* **CRAC/HVAC Management:** Monitoring Computer Room Air Conditioning units to maintain optimal temperature (18°C–22°C).
+* **Aisle Containment:** Implementing **Hot/Cold Aisle** strategies and using blanking panels to prevent air recirculation.
+* **Environmental Alerting:** Deploying IP-based sensors for real-time temperature and humidity monitoring integrated into **ServiceNow**.
+
+
+
+---
+
+## 🛡️ Physical Security & Integration
+* **CCTV & IP Surveillance:** Deployment of POE-based security cameras and NVR recording systems.
+* **Access Control:** Installation of biometric and RFID-based entry systems for data hall security.
+* **System Integration:** Bridging physical security hardware with the core IT network.
+
+---
+
 
 ## 👨‍💻 About the Author
 I am a **Systems Engineer** based in **Auckland, NZ**, with a focus on bridging the gap between traditional hardware and modern cloud automation. My career is built on the belief that if a task is done twice, it should be automated.
@@ -89,4 +144,8 @@ I am a **Systems Engineer** based in **Auckland, NZ**, with a focus on bridging 
 * [Personal Portfolio](https://your-google-site-link.com) ## under construction
 
 ---
-*Last Updated: February 2026*
+
+To finalize your Data Center & Physical Infrastructure repository, here is the complete, high-impact README.md file.
+
+This is designed to showcase your "hands-on" expertise to New Zealand employers like Systemethix, emphasizing that you understand the critical relationship between hardware, power, and cooling.
+
