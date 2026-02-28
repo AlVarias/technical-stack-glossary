@@ -33,9 +33,14 @@ Treating hardware and software configurations as version-controlled code.
 Ensuring 100% uptime for core network services and traffic flow.
 * **[Infoblox DDI](./INFOBLOX.md):** Expert DNS/DHCP/IPAM management. Specialized in **IMS**, **APN**, and caching.
 * **[F5 Networks](./F5_NETWORKS.md):** Load Balancing (LTM) and Application Delivery Controllers (ADC).
-* **[Cisco Systems](./CISCO.md):** Core routing and switching within enterprise backbones.
 * **[Harmony](./HARMONY.md):** Data compression and network bandwidth optimization.
-
+* [Cisco Systems](./CISCO.md) - Enterprise Backbone
+* [Mikrotik](./MIKROTIK.md) - RouterOS & ISP Routing
+* [Ruckus Wireless](./RUCKUS.md) - High-Density WLAN
+* [Ubiquiti](./UBIQUITI.md) - UniFi & EdgeMAX Ecosystem
+* [Ransnet](./RANSNET.md) - SD-Gateway & Hotspot
+* [Altai Technologies](./ALTAI_TECHNOLOGIES.md) - Super WiFi Outdoor
+* [SMB Solutions (D-Link/Linksys/TP-Link)](./D-LINK_LINKSYS_TPLINK.md)
 
 
 ---
