@@ -1,4 +1,4 @@
-## 🌐 2. DNS Resource Record Master Reference
+## 🌐DNS Resource Record Master Reference
 As a Platform Engineer, maintaining DNS integrity is the foundation of service availability. Below are the standards I follow.
 
 | Record | Name | Enterprise Purpose |
