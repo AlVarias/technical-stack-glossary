@@ -69,8 +69,8 @@ Governance and service delivery in high-SLA environments.
 I am a **Systems Engineer** based in **Auckland, NZ**, with a focus on bridging the gap between traditional hardware and modern cloud automation. My career is built on the belief that if a task is done twice, it should be automated.
 
 **Connect with me:**
-* [LinkedIn](https://www.linkedin.com/in/your-profile)
-* [Personal Portfolio](https://your-google-site-link.com)
+* [LinkedIn](https://www.linkedin.com/in/allen-albert-varias/)
+* [Personal Portfolio](https://your-google-site-link.com) ## under construction
 
 ---
 *Last Updated: February 2026*
